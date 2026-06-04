@@ -41,6 +41,13 @@ Two spots are deliberately blunt so you can sharpen them:
 
 You can also pin specific paths to a condition, e.g. *treat everything under `migrations/` as irreversible by default*.
 
+## Contact
+
+Built and maintained by **Amol** ([@amolb1986](https://github.com/amolb1986)).
+
+📱 **WhatsApp:** [+91 79770 75981](https://wa.me/917977075981)
+
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
